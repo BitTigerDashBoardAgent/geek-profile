@@ -1,3 +1,8 @@
+---
+title: Cosmo Qiu
+github: https://github.com/hackjutsu/geek-profile
+---
+
 ## Profile
 #### Cosmo Qiu
 >An inventor, product maker and problem solver adept at programming
@@ -12,7 +17,7 @@
 - Road to GitHub (comming soon)
 - [Agile Development based on Kanban](http://hackjutsu.com/2016/02/12/Kanban%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/)
 
-## Featured Projects
+## GitHub
 
 #### Original
 - [Lepton (~1.3k stars + ~1k users)](https://github.com/hackjutsu/Lepton): Cross-platform snipppet/note manager based on GitHub Gist
